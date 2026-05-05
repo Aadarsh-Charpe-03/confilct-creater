@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 #define int long long
 #define inp(v,n) for (auto &x : v) cin >> x
-#define yes cout << "YES\n"
+#define yes cout << "YES\n"vdgegegegegegeedcvsgt
 #define no cout << "NO\n"
 using namespace std;
  
