@@ -10,7 +10,7 @@ const long long inf = (long long)4e18;
 #define sz(x) (int)(x).size() 
 typedef vector<int> vi;
 typedef pair<int,int> pi;
-#define pb push_back ldsjfljsdl
+#define pb push_back No
 sdlkfkls
 #define endl '\n'
  
